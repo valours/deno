@@ -1,0 +1,11 @@
+{
+  "name": "deno",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "deno run --allow-net server.ts",
+    "hello": "deno run hello.ts"
+  },
+  "repository": "https://github.com/valours/deno.git",
+  "author": "Valentin Le Flem <leflem.valentin@gmail.com>",
+  "license": "MIT"
+}
